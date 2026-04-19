@@ -10,7 +10,7 @@
 
 - **Languages**: Java, SQL, HTML, CSS, JavaScript  
 - **Tools & Frameworks**: VS Code, IntelliJ, GitHub  
-- **Learning**: DSA
+- **Learning**: backend
 
 ---
 
