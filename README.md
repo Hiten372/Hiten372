@@ -14,25 +14,14 @@
 
 ---
 
-## 📌 Featured Projects
 
-- 🧠 [**Typing Speed Test (Java)**](https://github.com/Hiten372/simpleTypingSpeedTest)  
-  A console-based Java application that measures typing speed and accuracy with randomly selected sentences.
-
-- 💸 [**Expense Tracker**](https://github.com/Hiten372/ExpenseTrackEr.git)  
-  Track and categorize your daily expenses. Built with clean UI and essential budgeting features.
-
-- 🔗 [**Link Shortner**](https://github.com/Hiten372/LinkShortner)  
-  A simple and efficient tool to shorten long URLs, with a clean interface and copy-to-clipboard functionality.
-
----
 
 
 
 ## 🤝 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hitenprasad)
-- 📫 Reach me: prasadhiten0@gmail.com
+- 📫 Reach me: connect.hiten@gmail.com
 
 ---
 
