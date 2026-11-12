@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Hiten Prasad
 
-### Aspiring Software Engineer | Full Stack Developer Intern
+###Full Stack Developer Intern
 
 <p>
 I build practical web applications and modern user interfaces using
